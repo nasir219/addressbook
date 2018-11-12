@@ -53,7 +53,7 @@ public class AddressbookUI extends UI {
      *
      * This is the entry point method executed to initialize and configure the
      * visible user interface. Executed on every browser reload because a new
-     * instance is created for each web page loaded.
+     * instance is created for each web page load
      */
     @Override
     protected void init(VaadinRequest request) {
